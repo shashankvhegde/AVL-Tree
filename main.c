@@ -1,5 +1,5 @@
 
-	/*AVL Tree Implementation (Done!)*/
+	/*AVL Tree Implementation*/
 
 #include <stdio.h>
 #include <stdlib.h>
